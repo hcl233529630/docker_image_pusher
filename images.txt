@@ -13,3 +13,4 @@ homeassistant/amd64-addon-mosquitto:latest
 homeassistant/amd64-addon-matter-server:latest
 homeassistant/amd64-addon-rpc_shutdown:latest
 homeassistant/amd64-addon-openwakeword:latest
+emqx/emqx:latest
