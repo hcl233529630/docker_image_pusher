@@ -1,1 +1,15 @@
 ghcr.io/blakeblackshear/frigate:0.16.0-beta2
+ghcr.io/home-assistant/amd64-hassio-supervisor:2025.05.1
+ghcr.io/music-assistant/server:latest
+ghcr.io/home-assistant/amd64-hassio-cli:2025.04.0
+ghcr.io/home-assistant/qemux86-64-homeassistant:2025.4.1
+ghcr.io/home-assistant/amd64-hassio-multicast:2025.02.0
+ghcr.io/home-assistant/amd64-hassio-dns:2025.02.0
+ghcr.io/home-assistant/amd64-hassio-audio:2025.02.0
+ghcr.io/home-assistant/amd64-hassio-observer:2025.02.0
+ghcr.io/hugobloem/wyoming-microsoft-tts-noha:latest
+ghcr.io/hugobloem/wyoming-microsoft-stt-noha:latest
+homeassistant/amd64-addon-mosquitto:latest
+homeassistant/amd64-addon-matter-server:latest
+homeassistant/amd64-addon-rpc_shutdown:latest
+homeassistant/amd64-addon-openwakeword:latest
