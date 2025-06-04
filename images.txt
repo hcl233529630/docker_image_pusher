@@ -1,1 +1,1 @@
-ghcr.io/blakeblackshear/frigate:0.16.0-beta3
+ghcr.io/blakeblackshear/frigate:0.16.0-beta2
