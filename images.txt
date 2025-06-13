@@ -1,1 +1,1 @@
-ghcr.io/blakeblackshear/frigate:0.16.0-beta2
+codeproject/ai-server:latest
