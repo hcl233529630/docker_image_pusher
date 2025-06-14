@@ -1,1 +1,1 @@
-nodered/node-red:latest
+nodered/node-red
