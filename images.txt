@@ -1,1 +1,1 @@
-codeproject/ai-server:latest
+nodered/node-red:latest
