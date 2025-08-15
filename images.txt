@@ -1,1 +1,1 @@
-lukcz/rpc-shutdown
+lukcz/rpc-shutdown:beta4
