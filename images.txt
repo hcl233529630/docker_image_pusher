@@ -1,1 +1,1 @@
-lukcz/rpc-shutdown:latest
+lukcz/rpc-shutdown
