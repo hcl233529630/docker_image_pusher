@@ -1,1 +1,1 @@
-jacobalberty/unifi:latest
+lukcz/rpc-shutdown:latest
