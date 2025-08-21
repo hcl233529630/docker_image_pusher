@@ -1,1 +1,1 @@
-lukcz/rpc-shutdown:beta4
+ghcr.io/blakeblackshear/frigate:0.16.0
