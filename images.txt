@@ -1,1 +1,1 @@
-ghcr.io/blakeblackshear/frigate:0.16.0
+ghcr.io/home-assistant/home-assistant:2025.8.3
